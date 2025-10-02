@@ -7,7 +7,8 @@
 
 ### 🌐 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rogger-carvalho/) 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/roggerscarvalho/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/roggerscarvalho/)
+![Grade](https://img.shields.io/badge/GitHub%20Grade-A%2B-brightgreen?style=for-the-badge&logo=github)
 
 ---
 
@@ -17,13 +18,17 @@
 
 📈 **Rogger Carvalho's GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roggcarvalho&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roggcarvalho&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roggercarvalho&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roggercarvalho&layout=compact&theme=radical)  
 
 ---
 
 #### 🔥 Meu Score no GitHub
-![Rogger Carvalho's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roggcarvalho&theme=radical&hide_border=false)
+![Rogger Carvalho's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roggercarvalho&theme=radical&hide_border=false)
+
+
+
 
 </div>
 
